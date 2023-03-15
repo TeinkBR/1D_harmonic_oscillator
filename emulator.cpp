@@ -58,8 +58,8 @@ public:
 private:
     void computeNMatrix() {
         // Compute N_matrix based on the training list
-        // Please replace the placeholders with the actual values.
+        // Replace the placeholders with the actual values.
     }
 
-    void computeHMatrix() {
+    void computeHMatrix() {}
        
